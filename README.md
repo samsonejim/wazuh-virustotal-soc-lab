@@ -301,6 +301,28 @@ wazuh-virustotal-soc-lab/
 └── docs/
     └── architecture.md            # Detailed architecture explanation
 ```
+## 📸 Screenshots
+
+### Agent Active on Dashboard
+![Agent Active](screenshots/01-agent-active.png)
+
+### FIM Alert — Rule 554
+![FIM Alert](screenshots/02-fim-alert-554.png)
+
+### VirusTotal Clean File — Rule 87104
+![VT Clean](screenshots/03-virustotal-clean.png)
+
+### Malware Detected — Rule 87105 (66 Engines)
+![VT Malware](screenshots/04-virustotal-malware.png)
+
+### File Automatically Deleted
+![File Deleted](screenshots/05-file-deleted.png)
+
+### Active Response Log
+![AR Log](screenshots/06-active-response-log.png)
+
+### Full Security Events Timeline
+![Timeline](screenshots/07-full-event-timeline.png)
 
 ---
 
