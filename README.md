@@ -5,6 +5,7 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-Platform-orange?style=for-the-badge&logo=googlecloud)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04_LTS-E95420?style=for-the-badge&logo=ubuntu)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+📄 **[Download the Full Step-by-Step Beginner Guide (PDF)](docs/Wazuh_VirusTotal_GCP_Guide.pdf)**
 
 ---
 
@@ -300,6 +301,8 @@ wazuh-virustotal-soc-lab/
 │   └── 07-full-event-timeline.png # Full security events dashboard
 └── docs/
     └── architecture.md            # Detailed architecture explanation
+└── docs/
+    └── Wazuh_VirusTotal_GCP_Guide.pdf   ← Beginner step-by-step guide
 ```
 ## 📸 Screenshots
 
