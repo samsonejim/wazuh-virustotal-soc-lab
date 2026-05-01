@@ -347,8 +347,8 @@ This lab uses the EICAR test file — an industry-standard, harmless file used s
 
 ## 📬 Connect With Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/samsonejim/]
-- **GitHub:** [https://github.com/samsonejim]
+- **LinkedIn:** [linkedin.com/in/samsonejim](https://linkedin.com/in/samsonejim)
+- **GitHub:** [github.com/samsonejim](https://github.com/samsonejim)
 
 ---
 
